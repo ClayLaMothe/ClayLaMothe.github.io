@@ -1,8 +1,8 @@
 ---
 title: Hello world
 date: 2023-09-24 23:34:53 -600
-categories: 
-tags: 
+categories: [uncategorized]
+tags: [hello,world]
 ---
 
 # Hello world!
