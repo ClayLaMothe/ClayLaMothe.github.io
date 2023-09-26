@@ -1,14 +1,10 @@
 ---
-title: Hello world
-date: 2023-09-24 23:34:53 -600
+title: Welcome
+date: 2023-09-25 18:11:27 -600
 categories: [uncategorized]
-tags: [hello,world]
+tags: [welcome]
 ---
 
-# Hello world!
+# Welcome!
 
-Hello and welcome to my page!
-
-```bash
-man ls -lf
-```
+Hello and welcome to my page! I plan to post about different things I am learning and showcase my skills. Stay tuned!
