@@ -180,5 +180,5 @@ Now while I work on my website, I can simply open a terminal from within VS Code
 
 ![Using UTCtime.sh script in VS Code terminal](/assets/VSCodeTerminalTimeScript.png)
 
-
+I give credit to [Techno Tim](https://youtu.be/F8iOU1ci19Q?si=PxXI5-Y02ve4DrFj) for publishing a tutorial on how to create a website using Jekyll that helped me to get started. 
 
