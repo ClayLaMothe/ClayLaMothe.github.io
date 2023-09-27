@@ -3,6 +3,7 @@ title: Setting up my website
 date: 2023-09-26 02:36:35 -600
 categories: [projects]
 tags: [jekyll,bash,scripts,markdown]
+image: /assets/Courage-the-Cowardly-Dog.png
 ---
 
 # How did we get here?
