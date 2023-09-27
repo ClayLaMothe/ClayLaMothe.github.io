@@ -8,4 +8,4 @@ image: /assets/Ispy.png
 
 # Welcome!
 
-Hello and welcome to my page! I plan to post about different things I am learning and showcase my skills. Stay tuned!
+Hello and welcome to my page! I plan to post about different things I am learning and showcase my skills. Stay tuned! 
